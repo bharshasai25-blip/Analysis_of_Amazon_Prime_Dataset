@@ -1,1 +1,2 @@
 # Analysis_of_Amazon_Prime_Dataset
+In this project we have got a Amazon Prime Video's dataset which contains the records of its content like movies, tv shows and the votes it received and its content rating. So here we will analyze this dataset and find its overall performance statistics over time like its content diversity over the years, the voting and rating that its content received and which all content have dominated the platform.
